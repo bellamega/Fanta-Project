@@ -1,2 +1,2 @@
 <?php
-	echo "<nim> - <nama>";
+	echo "<10114510> - <Hadi Nurdin>";
